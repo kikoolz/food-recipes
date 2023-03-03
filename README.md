@@ -1,2 +1,2 @@
 # food-recipes
-This simple food-recipe project made using HTML and CSS.
+This is simple food-recipe project made using HTML and CSS.
